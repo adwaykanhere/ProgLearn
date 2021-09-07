@@ -42,7 +42,7 @@ We say an algorithm has transfer learned for task $t$ with data $D_n$ if and onl
 
 ## Results
 
-Shows Omnidirectional learning is successful in various scenarios.
+Shows Omnidirectional learning is successful by detailing about various scenarios.
 
 ## Further discussion
 
